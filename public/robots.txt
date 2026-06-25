@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://the-pint-and-post.vercel.app/sitemap.xml
